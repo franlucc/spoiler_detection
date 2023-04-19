@@ -1,6 +1,6 @@
 ## Running
 
-We have 3 notebooks titled `spoiler_detection_X` and each one runs a model. We have included our balanced `csv` datasets, as well as some of our more lgihtweight trained models. There is also code for preprocessing data, such as `goodreads_preprocess.py`.
+We have 3 notebooks titled `spoiler_detection_X` and each one runs a model `X`. We have included our balanced `csv` datasets, as well as some of our more lgihtweight trained models. There is also code for preprocessing data, such as `goodreads_preprocess.py`.
 
 Due to size constraints, our models have been uploaded at the following link:
 
